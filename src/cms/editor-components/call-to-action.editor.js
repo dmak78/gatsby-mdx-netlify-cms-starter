@@ -5,7 +5,7 @@ export const ctaEditorConfig = {
   // Internal id of the component
   id: "cta",
   // Visible label
-  label: "Call to Action",
+  label: "Call to Actions",
   // Fields the user need to fill out when adding an instance of the component
   fields: [
     { label: "Text", name: "text", widget: "string" },
